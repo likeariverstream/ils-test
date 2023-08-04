@@ -5,6 +5,6 @@
 
 ## [Страница приложения](https://ils-test.onrender.com/)
 
-# Для разработки: yarn dev
-# Линтер: yarn lint
-# Проверка типов: yarn typescript
+### Для разработки: yarn dev
+### Линтер: yarn lint
+### Проверка типов: yarn typescript
