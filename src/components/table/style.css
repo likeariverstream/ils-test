@@ -1,0 +1,11 @@
+.table-row {
+    cursor: pointer;
+}
+
+.selected-row {
+    background: #242424;
+    color: #646cff;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
