@@ -4,3 +4,7 @@
 ## Для получения трека движения используется API OSRM
 
 ## [Страница приложения](https://ils-test.onrender.com/)
+
+# Для разработки: yarn dev
+# Линтер: yarn lint
+# Проверка типов: yarn typescript
